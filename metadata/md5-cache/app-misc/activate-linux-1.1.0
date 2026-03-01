@@ -1,0 +1,9 @@
+DEFINED_PHASES=-
+DESCRIPTION=The "Activate Windows" watermark ported to Linux
+EAPI=8
+HOMEPAGE=https://github.com/MrGlockenspiel/activate-linux
+KEYWORDS=amd64 ~x86
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=https://github.com/MrGlockenspiel/activate-linux/archive/refs/tags/v1.1.0.tar.gz -> activate-linux-1.1.0.tar.gz
+_md5_=29c3f2b89b9119d03c7cbe738de55623
